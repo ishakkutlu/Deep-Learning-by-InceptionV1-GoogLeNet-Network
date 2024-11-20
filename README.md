@@ -1,9 +1,20 @@
-# Deep-Learning-by-InceptionV1-GoogLeNet-Network
+# Deep-Learning-by-InceptionV1-GoogLeNet
 
-Implemented InceptionV1 (GoogLeNet) network, one of the convolutional neural networks, to classify images on the food_mnist dataset, attaining up to 75% accuracy in some classes of among 10 classes and increasing by 8% accuracy through optimized hyper parameters such as batch size, learning rate, steps per epoch and data augmentation method.
+Optimized the InceptionV1 (GoogLeNet) network to classify images from the "food_mnist" dataset, achieving a substantial overall accuracy increase.
 
-Image Classification Using InceptionV1 as a Deep Learning Network on food_mnist Dataset (with data augmentation)
-https://www.kaggle.com/code/shakkutlu/deep-learning-using-inceptionv1-network-1
+## Key Highlights:
 
-Image Classification Using InceptionV1 as a Deep Learning Network on food_mnist Dataset (no data augmentation)
-https://www.kaggle.com/code/shakkutlu/deep-learning-using-inceptionv1-network-2
+- Accomplished up to 73% class accuracy by optimizing batch size, learning rate, steps per epoch, and data augmentation methods
+- Boosted overall accuracy by 9% through fine-tuning
+- Developed and trained the InceptionV1 network for image classification tasks
+- Implemented Python, TensorFlow, Keras, NumPy, Scikit-learn, Matplotlib, and Seaborn for model development and analysis
+
+
+## Deep Learning Using InceptionV1 Network: Post-Optimization (54% accuracy)
+This notebook shows the improved performance of an image classification model using the InceptionV1 network after hyperparameter optimization. It highlights the enhancements in accuracy and overall efficiency.
+https://www.kaggle.com/code/shakkutlu/optimizing-deep-learning-image-classification-54?scriptVersionId=134537703
+
+## Deep Learning Using InceptionV1 Network: Pre-Optimization (45% accuracy)
+This notebook demonstrates the performance of an image classification model using the InceptionV1 network before hyperparameter optimization. It evaluates accuracy and other metrics to establish a baseline.
+https://www.kaggle.com/code/shakkutlu/optimizing-deep-learning-image-classification-45?scriptVersionId=134534764
+
