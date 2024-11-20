@@ -12,9 +12,9 @@ Optimized the InceptionV1 (GoogLeNet) network to classify images from the "food_
 
 ## Deep Learning Using InceptionV1 Network: Post-Optimization (54% accuracy)
 This notebook shows the improved performance of an image classification model using the InceptionV1 network after hyperparameter optimization. It highlights the enhancements in accuracy and overall efficiency.
-https://www.kaggle.com/code/shakkutlu/optimizing-deep-learning-image-classification-54?scriptVersionId=134537703
+- https://www.kaggle.com/code/shakkutlu/optimizing-deep-learning-image-classification-54?scriptVersionId=134537703
 
 ## Deep Learning Using InceptionV1 Network: Pre-Optimization (45% accuracy)
 This notebook demonstrates the performance of an image classification model using the InceptionV1 network before hyperparameter optimization. It evaluates accuracy and other metrics to establish a baseline.
-https://www.kaggle.com/code/shakkutlu/optimizing-deep-learning-image-classification-45?scriptVersionId=134534764
+- https://www.kaggle.com/code/shakkutlu/optimizing-deep-learning-image-classification-45?scriptVersionId=134534764
 
